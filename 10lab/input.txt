@@ -1,0 +1,3 @@
+PANTS|Джинси|Levi's|899.0|M|синій|32|104
+SHIRT|Сорочка|Colin's|450.0|L|білий|Classic|Long
+JACKET|Куртка|Nike|2100.0|XL|чорний|так|поліестер
